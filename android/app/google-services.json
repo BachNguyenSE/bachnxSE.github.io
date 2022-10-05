@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "878362109114",
+    "firebase_url": "https://car-world-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "car-world-system",
+    "storage_bucket": "car-world-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878362109114:android:093fc66f4f2fe518e68e83",
+        "android_client_info": {
+          "package_name": "com.flutter.cws.car_world_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878362109114-dl4j6fgu6mfbvrn52tiilbsfk09qi7ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.cws.car_world_system",
+            "certificate_hash": "9da15d26f7cedf95c65cb28e0691cad4b9103afb"
+          }
+        },
+        {
+          "client_id": "878362109114-geanrhl6ss7jqkm9t1e36a0etejo1lke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.cws.car_world_system",
+            "certificate_hash": "0af3f5368dbc185dce0027d5a35775d017971d0d"
+          }
+        },
+        {
+          "client_id": "878362109114-ehik0bdvi1hljdaqm5pa16f6kieq45sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dvk_3P3VqFvhVPrtHEWESe6BjZ6kDl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878362109114-ehik0bdvi1hljdaqm5pa16f6kieq45sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
